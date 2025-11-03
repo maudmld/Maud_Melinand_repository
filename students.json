@@ -13,5 +13,34 @@
     "github_page": "https://chamishe.github.io",
     "matiere_preferee": "Qui sais ?",
     "emoji": "🦤"
+  },{
+    "prenom": "Maud",
+    "nom": "Mélinand",
+    "promo": 2025,
+    "github_page": "https://github.com/maudmld.github.io/",
+    "matiere_preferee": "XML-TEI",
+    "emoji": "👺"
+  }, {
+    "prenom": "Neïla",
+    "nom": "Hamoudi",
+    "promo": 2026,
+    "github_page": "https://nsnhamoudi.github.io/",
+    "matiere_preferee": "Non définie",
+    "emoji": "🙃"
+  },{
+    "prenom": "Florent",
+    "nom": "Farfouillon",
+    "promo": 2025,
+    "github_page": "https://flo_far.github.io/",
+    "matiere_preferee": "Python",
+    "emoji": "🐊"
+  }
+  ,{
+    "prenom": "Clara",
+    "nom": "Martin",
+    "promo": 2025,
+    "github_page": "https://CMartinArchives.github.io",
+    "matiere_preferee": "Git",
+    "emoji": "😳"
   }
 ]
