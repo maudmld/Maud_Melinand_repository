@@ -6,6 +6,84 @@
     "github_page": "https://segolene-albouy.github.io/",
     "matiere_preferee": "Git",
     "emoji": "🍓"
+  }, {
+    "prenom": "Béatrice",
+    "nom": "Pascale",
+    "promo": 2026,
+    "github_page": "https://humble-trout.github.io/",
+    "matiere_preferee": "Expressions régulières",
+    "emoji": "🌒"
+  },{
+    "prenom": "Letis",
+    "nom": "Mvg",
+    "promo": 2025,
+    "github_page": "https://letis-mvg.github.io/",
+    "matiere_preferee": "Git",
+    "emoji": "🐰"
+  },
+  {
+    "prenom": "Eva",
+    "nom": "Riviere",
+    "promo": 2026,
+    "github_page": "https://evaaaaaaa894.github.io/",
+    "matiere_preferee": "Approche sensible des archives du web",
+    "emoji": "🍅"
+  },{
+    "prenom": "Raphael",
+    "nom": "Hache",
+    "promo": 2025,
+    "github_page": "https://github.com/Raphhache/Raphhache.github.io.git",
+    "matiere_preferee": "Git",
+    "emoji": "🪓"
+  }, {
+    "prenom": "Charline",
+    "nom": "Emiry",
+    "promo": 2025,
+    "github_page": "https://c-emiry.github.io/",
+    "matiere_preferee": "XML",
+    "emoji": "🪳"
+  }, {
+    "prenom": "Solange",
+    "nom": "Cussaguet",
+    "promo": 2026,
+    "github_page": "https://solangecsg.github.io/",
+    "matiere_preferee": "Modelisation",
+    "emoji": "🐰"
+  },{
+    "prenom": "Fanny",
+    "nom": "Suszko",
+    "promo": 2025,
+    "github_page": "https://Edelweiss-Lilas.github.io/",
+    "matiere_preferee": "XML",
+    "emoji": "🎃"
+  },{
+    "prenom": "Joséphine",
+    "nom": "Maire",
+    "promo": 2025,
+    "github_page": "https://Josephinemaire.github.io/",
+    "matiere_preferee": "Russe",
+    "emoji": "🎹"
+  },{
+    "prenom": "Florian",
+    "nom": "Martin",
+    "promo": 2025,
+    "github_page": "https://floflo-boop.github.io/",
+    "matiere_preferee": "Python",
+    "emoji": "🏀"
+  }, {
+    "prenom": "Clotile",
+    "nom": "Long",
+    "promo": 2025,
+    "github_page": "https://longclotilde00-del.github.io/",
+    "matiere_preferee": "LaTex",
+    "emoji": "🍓"
+  }, {
+    "prenom": "Mélina",
+    "nom": "Franot",
+    "promo": 2026,
+    "github_page": "https://chamishe.github.io/",
+    "matiere_preferee": "Qui sais ?",
+    "emoji": "🦤"
   },{
     "prenom": "Maud",
     "nom": "Mélinand",
@@ -21,6 +99,13 @@
     "matiere_preferee": "Non définie",
     "emoji": "🙃"
   },{
+    "prenom": "Marie",
+    "nom": "Vielmas",
+    "promo": 2025,
+    "github_page": "https://MarieV-ENC.github.io/",
+    "matiere_preferee": "LaTex",
+    "emoji": "💻"
+},{
     "prenom": "Florent",
     "nom": "Farfouillon",
     "promo": 2025,
@@ -35,5 +120,21 @@
     "github_page": "https://CMartinArchives.github.io",
     "matiere_preferee": "Git",
     "emoji": "😳"
+  }
+  ,{
+    "prenom": "Arthur",
+    "nom": "Douilly",
+    "promo": 2025,
+    "github_page": "https://arthurdouilly.github.io/",
+    "matiere_preferee": "Pérennisation des documents numériques",
+    "emoji": "🐀"
+  }
+  ,{
+    "prenom": "Jules",
+    "nom": "Musquin",
+    "promo": 2026,
+    "github_page": "https://anarchiviste.github.io",
+    "matiere_preferee": "Git",
+    "emoji": "(•⩊•)"
   }
 ]
