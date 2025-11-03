@@ -2,9 +2,20 @@
   {
     "prenom": "Ségolène",
     "nom": "Albouy",
-    "promo": 2019,
+    "promo":2019,
     "github_page": "https://segolene-albouy.github.io/",
     "matiere_preferee": "Git",
     "emoji": "🍓"
+  }
+]
+
+[
+  {
+    "prenom": "Joséphine",
+    "nom": "Maire",
+    "promo":2025
+    "github_page": "https://Josephinemaire.github.io/",
+    "matiere_preferee": "Russe",
+    "emoji": "🎹"
   }
 ]
