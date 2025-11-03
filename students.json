@@ -1,10 +1,10 @@
 [
   {
     "prenom": "Charline",
-    "nom": "Emiry"
+    "nom": "Emiry",
     "promo": 2025,
     "github_page": "https://c-emiry.github.io/",
-    "matiere_preferee": "Git",
+    "matiere_preferee": "XML",
     "emoji": "🪳"
   }
 ]
